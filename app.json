@@ -1,0 +1,1 @@
+{"edition":"202601","entrypoint":"index.html","min_sdk_version":"0.0.10","name":"TG Glance","package_id":"com.gemmaworks.tgglance","permissions":[{"desc":"Talk to the TG Glance companion backend (demo data or Telegram Bot API) on localhost.","name":"network","whitelist":["http://localhost:8787","https://api.telegram.org"]}],"supported_languages":["en"],"version":"0.1.0"}
